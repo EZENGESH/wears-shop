@@ -1,7 +1,7 @@
 let shopItemsData = [
     {
       id: "A1",
-      name: "Casual Shirt",
+      name: "official",
       price: 4500,
       desc: "100% cotton, blazer.",
       img: "images/image-1.jpg",
@@ -16,8 +16,8 @@ let shopItemsData = [
     {
       id: "A3",
       name: "T Shirt",
-      price: 250,
-      desc: "Assort types of shirts.",
+      price: 2500,
+      desc: "Assorted types of shirts.",
       img: "images/image-3.jpg",
     },
     {
